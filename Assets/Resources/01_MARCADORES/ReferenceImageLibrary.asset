@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 0
+  m_GuidHigh: 0
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5170505237963886993
+      m_GuidHigh: 4000596910181064837
+    m_SerializedTextureGuid:
+      m_GuidLow: 5554113134624317308
+      m_GuidHigh: 12922587790754169882
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: marker_reto1_paso1_a
+    m_Texture: {fileID: 2800000, guid: 0f9d1f7c2c784d141ac4b3fe204156b3, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5161238308394620092
+      m_GuidHigh: 7997523897196980403
+    m_SerializedTextureGuid:
+      m_GuidLow: 7801388581615996071
+      m_GuidHigh: 3887114993537984905
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: marker_reto1_paso1_b
+    m_Texture: {fileID: 2800000, guid: da028ca719946c448929ede67dcef135, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5003413239101045644
+      m_GuidHigh: 18032393958496840324
+    m_SerializedTextureGuid:
+      m_GuidLow: 17790555366803188041
+      m_GuidHigh: 3444430302982962523
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: marker_reto3
+    m_Texture: {fileID: 2800000, guid: 03392949bfd9f6e45bfde3761c13cd2f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5627153751423996244
+      m_GuidHigh: 13147380557390991517
+    m_SerializedTextureGuid:
+      m_GuidLow: 6914228331748685405
+      m_GuidHigh: 10359459192848289528
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: marker_reto4_paso1
+    m_Texture: {fileID: 2800000, guid: d9d2765d46085ff4f88ee0c63f31c48f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5067799785277892964
+      m_GuidHigh: 13859065339096982448
+    m_SerializedTextureGuid:
+      m_GuidLow: 865913885665203824
+      m_GuidHigh: 3119690154843483771
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: marker_reto4_paso2
+    m_Texture: {fileID: 2800000, guid: 5927167058170c047baebac0aa5d4b2b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5496217757467444408
+      m_GuidHigh: 16504559420987924411
+    m_SerializedTextureGuid:
+      m_GuidLow: 13313813082754699546
+      m_GuidHigh: 10099555935808136875
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: marker_reto4_paso3_a
+    m_Texture: {fileID: 2800000, guid: 8b8ad11a2a75b8c4ab2608279dd4288c, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5555231359082197206
+      m_GuidHigh: 11026354376160728729
+    m_SerializedTextureGuid:
+      m_GuidLow: 5342649202783362237
+      m_GuidHigh: 15783130372533437482
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: marker_reto4_paso3_b
+    m_Texture: {fileID: 2800000, guid: b36d1cbde7244a242ac4888273f108db, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5322600070982944878
+      m_GuidHigh: 4584906658791594131
+    m_SerializedTextureGuid:
+      m_GuidLow: 5486649455041487789
+      m_GuidHigh: 641547127678219033
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: marker_reto5_paso1
+    m_Texture: {fileID: 2800000, guid: 1ed6a3ad7e9c4c2419b3eeabb63be708, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5220257205001004398
+      m_GuidHigh: 488046313806775691
+    m_SerializedTextureGuid:
+      m_GuidLow: 4658027058335531782
+      m_GuidHigh: 13865998543842943400
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: marker_retoIntro_1
+    m_Texture: {fileID: 2800000, guid: 263f4306a2ee40a4a8a1d7dd35ec6dc0, type: 3}
